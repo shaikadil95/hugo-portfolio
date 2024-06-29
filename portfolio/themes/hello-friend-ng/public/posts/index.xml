@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Adil Shaik</title>
+        <link>//localhost:1313/posts/</link>
+        <description>Recent content in Posts on Adil Shaik</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Mon, 10 Jun 2024 12:00:00 +0000</lastBuildDate>
+        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>//localhost:1313/posts/2024-06-10-my-first-post/</link>
+            <pubDate>Mon, 10 Jun 2024 12:00:00 +0000</pubDate>
+            
+            <guid>//localhost:1313/posts/2024-06-10-my-first-post/</guid>
+            <description>My First Post Welcome to my new blog! This is my first post. Here, I&amp;rsquo;ll be sharing updates, projects, and thoughts on various topics.
+Stay tuned for more!</description>
+            <content type="html"><![CDATA[<h1 id="my-first-post">My First Post</h1>
+<p>Welcome to my new blog! This is my first post. Here, I&rsquo;ll be sharing updates, projects, and thoughts on various topics.</p>
+<p>Stay tuned for more!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
